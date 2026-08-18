@@ -1,0 +1,23 @@
+                                                library 
+
+
+                               Entities  - students ,books , Librarian 
+
+
+                               Attributes- Student---- 1.ST-name
+                                                       2.ST-class
+                                                       3.SI-ID
+
+                                         - librarian-- 1.L-name
+                                                       2.L-Tel.
+                                                       3.L-Address 
+
+                                         - books------ 1.B-name
+                                                       2.B-category
+                                                       3.B-shell-no 
+
+
+
+
+
+                                                 
