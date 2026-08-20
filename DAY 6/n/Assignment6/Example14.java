@@ -10,7 +10,7 @@ class Example14{
 			System.out.print(num1+" * "+num2+" = "+(num1*num2));
 		}
 		public static void dividend(int num1,int num2){
-			System.out.print(num1+" / "+num2+" = "+(num1/num2));
+			System.out.print(num1+" / "+num2+" = "+((double)num1/(double)num2));
 		}
 		public static void reminder(int num1,int num2) {
 			System.out.print(num1+" % "+num2+" = "+(num1%num2));
