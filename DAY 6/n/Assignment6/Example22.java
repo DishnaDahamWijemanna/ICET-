@@ -12,6 +12,6 @@ class Example22{
 				
 				
 				double ms = msConverter(km);
-				System.out.printf("speed in ms : %.2f ms",ms);
+				System.out.printf("speed in ms : %.2f ms^-1",ms);
 		}
 }

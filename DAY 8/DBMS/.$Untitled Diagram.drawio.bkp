@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="ZQgBmMebsMlCzWI2v97Z">
+    <mxGraphModel dx="1771" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_l_P1M73kPLwfYtmZQTw-1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Department" vertex="1">
+          <mxGeometry height="40" width="100" x="-90" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_l_P1M73kPLwfYtmZQTw-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Ward" vertex="1">
+          <mxGeometry height="40" width="100" x="-90" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="_l_P1M73kPLwfYtmZQTw-3" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Contain" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Doctor" vertex="1">
+          <mxGeometry height="40" width="100" x="-90" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-2" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Bolongs" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="nurse" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-6" edge="1" parent="1" source="_l_P1M73kPLwfYtmZQTw-3" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="_l_P1M73kPLwfYtmZQTw-2" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-40" y="40" as="sourcePoint" />
+            <mxPoint x="30" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-7" edge="1" parent="1" source="_l_P1M73kPLwfYtmZQTw-3" style="fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_l_P1M73kPLwfYtmZQTw-1" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-40" y="110" as="sourcePoint" />
+            <mxPoint x="-50" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-9" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="handles" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-10" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="appoinment" vertex="1">
+          <mxGeometry height="40" width="100" x="-90" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-11" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="handles" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-12" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="patient" vertex="1">
+          <mxGeometry height="40" width="100" x="-90" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-13" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Prescriptions" vertex="1">
+          <mxGeometry height="40" width="100" x="-410" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-14" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="handles" vertex="1">
+          <mxGeometry height="60" width="120" x="-260" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-15" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="handles" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ksJsSdp_IhpzLxPE52u9-16" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Bill" vertex="1">
+          <mxGeometry height="40" width="100" x="230" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

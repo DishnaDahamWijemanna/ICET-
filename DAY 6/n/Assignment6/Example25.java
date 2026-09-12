@@ -9,7 +9,7 @@ class Example25{
 	}
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter the length of the cube : ");
+		System.out.print("Enter the length(m) of the cube : ");
 		double l = sc.nextDouble();
 		
 		double v = findSV(l);
